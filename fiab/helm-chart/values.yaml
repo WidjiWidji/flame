@@ -62,9 +62,9 @@ minio:
     hosts:
       - minio.flame.test
 
-imageName: kwidjanarko/flame
+imageName: gaurav256/flame
 imageTag: latest
-workerImageName: kwidjanarko/flame
+workerImageName: gaurav256/flame
 workerImageTag: latest
 
 broker:
